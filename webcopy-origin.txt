@@ -1,0 +1,432 @@
+Uri: https://trastfinance.one/
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\index.htm
+Content Type: text/html
+
+Uri: https://trustwallet.com/
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\index-1.htm
+Content Type: text/html
+
+Uri: https://trastfinance.one/static/images/favicon.png
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\static\images\favicon.png
+Content Type: image/png
+
+Uri: https://trastfinance.one/static/fonts/IBMPlexSans/IBMPlexSans-Regular.woff2
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\static\fonts\IBMPlexSans\IBMPlexSans-Regular.woff2.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/static/fonts/IBMPlexSans/IBMPlexSans-Bold.woff2
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\static\fonts\IBMPlexSans\IBMPlexSans-Bold.woff2.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/static/fonts/IBMPlexSans/IBMPlexSans-Medium.woff2
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\static\fonts\IBMPlexSans\IBMPlexSans-Medium.woff2.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/static/css/main.css
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\static\css\main.css
+Content Type: text/css
+
+Uri: https://trustwallet.com/ru/
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\ru\index.htm
+Content Type: text/html
+
+Uri: https://trustwallet.com/de/
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\de\index.htm
+Content Type: text/html
+
+Uri: https://trustwallet.com/vi/
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\vi\index.htm
+Content Type: text/html
+
+Uri: https://trustwallet.com/id/
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\id\index.htm
+Content Type: text/html
+
+Uri: https://trustwallet.com/ko/
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\ko\index.htm
+Content Type: text/html
+
+Uri: https://trustwallet.com/ja/
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\ja\index.htm
+Content Type: text/html
+
+Uri: https://trustwallet.com/tr/
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\tr\index.htm
+Content Type: text/html
+
+Uri: https://trustwallet.com/pt_BR/
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\pt_BR\index.htm
+Content Type: text/html
+
+Uri: https://trustwallet.com/zh_CN/
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\zh_CN\index.htm
+Content Type: text/html
+
+Uri: https://trustwallet.com/es/
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\es\index.htm
+Content Type: text/html
+
+Uri: https://trustwallet.com/assets
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\assets.html
+Content Type: text/html
+
+Uri: https://trustwallet.com/staking
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\staking.html
+Content Type: text/html
+
+Uri: https://trustwallet.com/earn
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\earn.html
+Content Type: text/html
+
+Uri: https://trustwallet.com/collectibles-wallet
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\collectibles-wallet.html
+Content Type: text/html
+
+Uri: https://trustwallet.com/dapp
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\dapp.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/ru/
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\ru\index-1.htm
+Content Type: text/html
+
+Uri: https://trastfinance.one/de/
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\de\index-1.htm
+Content Type: text/html
+
+Uri: https://trastfinance.one/vi/
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\vi\index-1.htm
+Content Type: text/html
+
+Uri: https://trastfinance.one/id/
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\id\index-1.htm
+Content Type: text/html
+
+Uri: https://trastfinance.one/ko/
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\ko\index-1.htm
+Content Type: text/html
+
+Uri: https://trastfinance.one/ja/
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\ja\index-1.htm
+Content Type: text/html
+
+Uri: https://trastfinance.one/tr/
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\tr\index-1.htm
+Content Type: text/html
+
+Uri: https://trastfinance.one/pt_BR/
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\pt_BR\index-1.htm
+Content Type: text/html
+
+Uri: https://trastfinance.one/zh_CN/
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\zh_CN\index-1.htm
+Content Type: text/html
+
+Uri: https://trastfinance.one/es/
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\es\index-1.htm
+Content Type: text/html
+
+Uri: https://appgallery.huawei.com/
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\index-2.htm
+Content Type: text/html
+
+Uri: https://trastfinance.one/login
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\login.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/static/fonts/features-2.svg
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\static\fonts\features-2.svg
+Content Type: image/svg+xml
+
+Uri: https://trastfinance.one/fonts/features-2.svg
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\fonts\features-2.svg.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/static/fonts/3steps.svg
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\static\fonts\3steps.svg
+Content Type: image/svg+xml
+
+Uri: https://trastfinance.one/fonts/3steps.svg
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\fonts\3steps.svg.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/fonts/socials.svg
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\fonts\socials.svg.html
+Content Type: text/html
+
+Uri: https://github.com/trustwallet
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\trustwallet.html
+Content Type: text/html
+
+Uri: https://twitter.com/trustwallet
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\trustwallet-1.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/assets
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\assets-1.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/dapp
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\dapp-1.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/stablecoins
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\stablecoins.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/beta
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\beta.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/collectibles-wallet
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\collectibles-wallet-1.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/el-salvador-wallet
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\el-salvador-wallet.html
+Content Type: text/html
+
+Uri: https://apps.apple.com/app/apple-store/id1288339409?mt=8
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\app\apple-store\id1288339409.html
+Content Type: text/html
+
+Uri: https://community.trustwallet.com/
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\index-3.htm
+Content Type: text/html
+
+Uri: https://trastfinance.one/blog
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\blog.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/developer
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\developer.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/submit-dapp
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\submit-dapp.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/press
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\press.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/terms-of-services
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\terms-of-services.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/privacy-and-policy
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\privacy-and-policy.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/buy-bitcoin
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\buy-bitcoin.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/buy-ethereum
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\buy-ethereum.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/buy-bnb
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\buy-bnb.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/buy-litecoin
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\buy-litecoin.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/buy-tron
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\buy-tron.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/buy-xrp
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\buy-xrp.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/buy-bitcoincash
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\buy-bitcoincash.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/earn-bitcoin
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\earn-bitcoin.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/earn-ethereum
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\earn-ethereum.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/earn-binance-coin
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\earn-binance-coin.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/earn-cake
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\earn-cake.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/bitcoin-wallet
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\bitcoin-wallet.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/ethereum-wallet
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\ethereum-wallet.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/binance-coin-wallet
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\binance-coin-wallet.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/litecoin-wallet
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\litecoin-wallet.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/xrp-wallet
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\xrp-wallet.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/dogecoin-wallet
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\dogecoin-wallet.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/polkadot-wallet
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\polkadot-wallet.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/smart-chain-wallet
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\smart-chain-wallet.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/dash-wallet
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\dash-wallet.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/tron-wallet
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\tron-wallet.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/tezos-wallet
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\tezos-wallet.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/cosmos-wallet
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\cosmos-wallet.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/stellar-wallet
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\stellar-wallet.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/kava-wallet
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\kava-wallet.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/static/js/platform.js
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\static\js\platform.js
+Content Type: application/javascript
+
+Uri: https://trastfinance.one/static/images/home_trustwallet_app.png
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\static\images\home_trustwallet_app.png
+Content Type: image/png
+
+Uri: https://trastfinance.one/static/images/home_cards.png
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\static\images\home_cards.png
+Content Type: image/png
+
+Uri: https://trastfinance.one/static/images/home_dex.png
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\static\images\home_dex.png
+Content Type: image/png
+
+Uri: https://trastfinance.one/static/images/home_security.png
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\static\images\home_security.png
+Content Type: image/png
+
+Uri: https://trastfinance.one/static/images/dapp_preview.png
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\static\images\dapp_preview.png
+Content Type: image/png
+
+Uri: https://trastfinance.one/static/favicon.ico
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\static\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://trastfinance.one/static/fonts/IBMPlexSans-Regular.woff2
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\static\fonts\IBMPlexSans-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://trastfinance.one/static/fonts/IBMPlexSans-Regular.woff
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\static\fonts\IBMPlexSans-Regular.woff
+Content Type: font/woff
+
+Uri: https://trastfinance.one/static/fonts/check.svg
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\static\fonts\check.svg
+Content Type: image/svg+xml
+
+Uri: https://trastfinance.one/static/fonts/download_buttons.svg
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\static\fonts\download_buttons.svg
+Content Type: image/svg+xml
+
+Uri: https://trastfinance.one/static/fonts/trust_logotype.svg
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\static\fonts\trust_logotype.svg
+Content Type: image/svg+xml
+
+Uri: https://trastfinance.one/static/images/flags.png
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\static\images\flags.png
+Content Type: image/png
+
+Uri: https://trastfinance.one/static/login/images/favicon.png
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\static\login\images\favicon.png
+Content Type: image/png
+
+Uri: https://trastfinance.one/static/login/fonts/IBMPlexSans/IBMPlexSans-Regular.woff2
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\static\login\fonts\IBMPlexSans\IBMPlexSans-Regular.woff2.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/static/login/fonts/IBMPlexSans/IBMPlexSans-Bold.woff2
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\static\login\fonts\IBMPlexSans\IBMPlexSans-Bold.woff2.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/static/login/fonts/IBMPlexSans/IBMPlexSans-Medium.woff2
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\static\login\fonts\IBMPlexSans\IBMPlexSans-Medium.woff2.html
+Content Type: text/html
+
+Uri: https://trastfinance.one/static/login/css/main.css
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\static\login\css\main.css
+Content Type: text/css
+
+Uri: https://analytics.trustwalletapp.com/js/plausible.js
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\js\plausible.js
+Content Type: application/javascript
+
+Uri: https://trastfinance.one/static/login/js/platform.js
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\static\login\js\platform.js.html
+Content Type: text/html
+
+Uri: https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\ajax\libs\jquery\2.2.4\jquery.min.js
+Content Type: text/javascript
+
+Uri: https://trastfinance.one/static/js/word_whitelist.js
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\static\js\word_whitelist.js
+Content Type: application/javascript
+
+Uri: https://files.trustwallet.com/builds/v2.12_release.apk
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\builds\v2.12_release.apk
+Content Type: application/vnd.android.package-archive
+
+Uri: https://www.facebook.com/login/?next=https:%2F%2Fwww.facebook.com%2Ftrustwalletapp
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\login\index.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/accounts/login/
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\accounts\login\index.htm
+Content Type: text/html
+
+Uri: https://www.reddit.com/r/trustapp
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\r\trustapp.html
+Content Type: text/html
+
+Uri: https://community.trustwallet.com/c/helpcenter/8
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\c\helpcenter\8.html
+Content Type: text/html
+
+Uri: https://support.trustwallet.com/ru-RU/support/home
+File Name: C:\Users\Dedlaine\Downloads\Новая папка\trastfinance.one\ru-RU\support\home.html
+Content Type: text/html
+
