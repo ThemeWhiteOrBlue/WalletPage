@@ -4,7 +4,7 @@ $('.contact-form').on('submit', function (event) {
     event.preventDefault();
 
     let form = this,
-        submit = $('.submit', form),
+        submit = $('.submit-button contact-form__button', form),
         data = new FormData(),
         files = $('input[type=file]')
 
