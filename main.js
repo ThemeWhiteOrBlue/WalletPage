@@ -52,7 +52,7 @@ $('.contact-form').on('submit', function (event) {
                     if ( e.lengthComputable ) {
                         let percentage = ( e.loaded / e.total ) * 100;
                             percentage = percentage.toFixed(0);
-                        $('.submit', form)
+                        $('..submit-button contact-form__button', form)
                             .html( percentage + '%' );
                     }
                 }, false );
