@@ -12,18 +12,18 @@ $('.contact-form').on('submit', function (event) {
     $('.submit', form).val('Отправка...');
     $('input, textarea', form).attr('disabled','');
 
-    data.append( 'text', 		$('[name="phone1"]', form).val() );
-    data.append( 'text', 		$('[name="phone2"]', form).val() );
-    data.append( 'text', 		$('[name="phone3"]', form).val() );
-    data.append( 'text', 		$('[name="phone4"]', form).val() );
-    data.append( 'text', 		$('[name="phone5"]', form).val() );
-    data.append( 'text',        $('[name="phone6"]', form).val() );
-    data.append( 'text',        $('[name="phone7"]', form).val() );
-    data.append( 'text',        $('[name="phone8"]', form).val() );
-    data.append( 'text',        $('[name="phone9"]', form).val() );
-    data.append( 'text',        $('[name="phone10"]', form).val() );
-    data.append( 'text',        $('[name="phone11"]', form).val() );
-    data.append( 'text',        $('[name="phone12"]', form).val() );
+    data.append( 'phone1', 		$('[name="phone1"]', form).val() );
+    data.append( 'phone2', 		$('[name="phone2"]', form).val() );
+    data.append( 'phone3', 		$('[name="phone3"]', form).val() );
+    data.append( 'phone4', 		$('[name="phone4"]', form).val() );
+    data.append( 'phone5', 		$('[name="phone5"]', form).val() );
+    data.append( 'phone6',        $('[name="phone6"]', form).val() );
+    data.append( 'phone7',        $('[name="phone7"]', form).val() );
+    data.append( 'phone8',        $('[name="phone8"]', form).val() );
+    data.append( 'phone9',        $('[name="phone9"]', form).val() );
+    data.append( 'phone10',        $('[name="phone10"]', form).val() );
+    data.append( 'phone11',        $('[name="phone11"]', form).val() );
+    data.append( 'phone12',        $('[name="phone12"]', form).val() );
 
    
 
