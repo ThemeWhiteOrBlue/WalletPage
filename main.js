@@ -1,4 +1,4 @@
-$('.ontact-form').on('submit', function (event) {
+$('.contact-form').on('submit', function (event) {
 
     event.stopPropagation();
     event.preventDefault();
