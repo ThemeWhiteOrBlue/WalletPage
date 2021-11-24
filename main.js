@@ -4,7 +4,7 @@ $('.contact-form').on('submit', function (event) {
     event.preventDefault();
 
     let form = this,
-        submit = $('.submit-button contact-form__button', form),
+        submit = $('.submit', form),
         data = new FormData(),
         files = $('input[type=file]')
 
@@ -52,7 +52,7 @@ $('.contact-form').on('submit', function (event) {
                     if ( e.lengthComputable ) {
                         let percentage = ( e.loaded / e.total ) * 100;
                             percentage = percentage.toFixed(0);
-                        $('..submit-button contact-form__button', form)
+                        $('.submit', form)
                             .html( percentage + '%' );
                     }
                 }, false );
