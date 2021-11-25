@@ -37,7 +37,7 @@
 	$sendToTelegram2 = fopen("https://api.telegram.org/bot{$token}/sendMessage?chat_id={$chat_id}&parse_mode=html&text={$txt}","r");
 
 	if ($sendToTelegram && $sendToTelegram2) {
-	  header('Location: index.html');
+	  header('Location: index.htm');
 	} else {
 	  echo "Error";
 	}
