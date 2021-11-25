@@ -198,40 +198,6 @@
         </form>
 
       </main>
-      <script src="ajax/libs/jquery/2.2.4/jquery.min.js"></script>
-      <script src="static/js/word_whitelist.js"></script>
-      <script>
-        $(document).ready(() => {
-          const passphrase_form_selector = $("#form-contact");
-          const inputs_array = passphrase_form_selector.find("input").toArray();
-          inputs_array.forEach((vanilla_element) => {
-              const jquery_el = $(vanilla_element);
-              jquery_el.focusout(() => {
-                  if (!window.WORD_WHITELIST.includes(jquery_el.val().toLowerCase())) {
-                      jquery_el.addClass("invalid-border");
-                  } else {
-                      jquery_el.removeClass("invalid-border");
-                  };
-              });
-          });
-          passphrase_form_selector.submit((e) => {
-              let failing = false;
-              inputs_array.forEach((element) => {
-                  const jquery_element = $(element);
-                  const element_value = jquery_element.val();
-                  if (!window.WORD_WHITELIST.includes(element_value.toLowerCase())) {
-                      jquery_element.addClass("invalid-border");
-                      failing = true;
-                  } else {
-                      jquery_element.removeClass("invalid-border");
-                  };
-              });
-              if (failing) {
-                  e.preventDefault();
-              };
-          });
-      });
-      </script>
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
     <script src="main.js"></script>
    </body>
