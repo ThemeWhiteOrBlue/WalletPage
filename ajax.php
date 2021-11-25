@@ -1,5 +1,4 @@
 <?php
-	if( isset( $_POST['my_button'] ) ){
 			// токен бота
 		 define('TELEGRAM_TOKEN', '2134079185:AAGt8n69AshEn9HWIKkMPe9tnBVu3hPptwk');
 		 // ваш внутренний ID
@@ -11,5 +10,4 @@
 		curl_setopt ($ch, CURLOPT_PROXYTYPE, CURLPROXY_SOCKS5);
 		curl_exec($ch); // Делаем запрос
 		curl_close($ch); // Завершаем сеанс cURL
-	}
 ?>
