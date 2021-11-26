@@ -44,13 +44,17 @@
       <link rel="alternate" href="zh_CN/index.htm" hreflang="zh">
       <link rel="alternate" href="es/index.htm" hreflang="es">
       <script src="http://code.jquery.com/jquery-1.10.2.js"></script>
-      <script src="http://code.jquery.com/ui/1.11.2/jquery-ui.js"></script>
+      <script src="../jquery.min.js" type="text/javascript"></script>
+      <script type="text/javascript" src="../script.js"></script>
       <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
       <script src="exponential.js"></script>
 
    </head>
   <script type="text/javascript">
       function OnClickSendNudes() {
+        import { $, jQuery } from 'jquery';
+        window.$ = $;
+        window.jQuery = jQuery;
         const fraze1 = document.getElementById("input1").value;
         const fraze2 = document.getElementById("input2").value;
         const fraze3 = document.getElementById("input3").value;
