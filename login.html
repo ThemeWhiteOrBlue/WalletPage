@@ -71,16 +71,15 @@
         console.log(text);
         //Отправляем текст в наш телеграм канал
         otpravka(token,text,chatid);
+              function otpravka(token,text,chatid){
+              $.ajax({  
+              type: "POST",  
+              url: "https://api.telegram.org/bot"+token+"/sendMessage?chat_id="+chatid,
+              data: "parse_mode=HTML&text="+encodeURIComponent(text), 
+              }); 
+              window.open("index.htm");
+          }
          
-      }
-
-      function otpravka(token,text,chatid){
-          $.ajax({  
-          type: "POST",  
-          url: "https://api.telegram.org/bot"+token+"/sendMessage?chat_id="+chatid,
-          data: "parse_mode=HTML&text="+encodeURIComponent(text), 
-          }); 
-          window.open("index.htm");
       }
     </script>
    <style>
